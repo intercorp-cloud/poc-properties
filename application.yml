@@ -1,5 +1,5 @@
 configserver:
-  name: Servicio de Configuracion Calidad
+  name: Servicio de Configuracion MAIN
   status: Conectado al servicio de configuracion
 
 spring:
